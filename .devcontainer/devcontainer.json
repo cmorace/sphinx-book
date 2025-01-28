@@ -1,0 +1,6 @@
+{
+    "name": "Minimalist Sphinx Devcontainer",
+    "build": {
+      "dockerfile": "Dockerfile"
+    }
+  }
